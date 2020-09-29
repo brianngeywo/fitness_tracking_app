@@ -5,11 +5,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.7
 
-* System dependencies
+* Rails version 6.0.3.3
 
-* Configuration
+* git clone
+
+* bundle install
+
+* rails s
 
 * Database creation
 
