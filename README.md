@@ -13,6 +13,8 @@ Things you may want to cover:
 
 * bundle install
 
+* rake db:create
+
 * rails s
 
 * Database creation
